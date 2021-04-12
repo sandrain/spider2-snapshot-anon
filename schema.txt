@@ -1,0 +1,17 @@
++-------------+---------+-------+
+|     col_name|data_type|comment|
++-------------+---------+-------+
+|        Atime|   bigint|   null|
+|        Ctime|   bigint|   null|
+|        Mtime|   bigint|   null|
+|          OST|   string|   null|
+|         area|   string|   null|
+|          gid|   string|   null|
+|     itemsize|   bigint|   null|
+|         path|   string|   null|
+|   permission|   string|   null|
+|      project|   string|   null|
+|          uid|   string|   null|
+|      unknown|   string|   null|
+|snapshot_date|      int|   null|
++-------------+---------+-------+
